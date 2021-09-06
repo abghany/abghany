@@ -6,10 +6,11 @@
 - ⚡ Fun fact:
 
 ### Tech Stack
-  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/-Android-000?&logo=Android" />
+  <img align="left" src="https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin"/>
+  <img align="left" src="https://img.shields.io/badge/-IntellijIDEA-000?&logo=IntellijIDEA"/>
+  <img align="left" src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
+  <img align="left" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C"/>
   <br>
   <br>
 
