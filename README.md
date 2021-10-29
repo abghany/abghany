@@ -12,7 +12,6 @@
 <a href="https://developer.android.com" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Android-000?&logo=Android" />
 <a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin"/>
 <a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.shields.io/badge/-IntellijIDEA-000?&logo=IntellijIDEA"/>
-<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Python-000?&logo=Python"/>  
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" src="https://img.shields.io/badge/-HTML-000?&logo=HTML5"/>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img align="left" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
 <a href="https://git-scm.com" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
