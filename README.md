@@ -9,11 +9,14 @@
 - ⚡ Fun fact:
 
 ### Tech Stack
-  <a href="https://developer.android.com" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Android-000?&logo=Android" />
-  <a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin"/>
-  <a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.shields.io/badge/-IntellijIDEA-000?&logo=IntellijIDEA"/>
-  <a href="https://git-scm.com" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
-  <br>
+<a href="https://developer.android.com" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Android-000?&logo=Android" />
+<a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin"/>
+<a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.shields.io/badge/-IntellijIDEA-000?&logo=IntellijIDEA"/>
+<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Python-000?&logo=Python"/>  
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" src="https://img.shields.io/badge/-HTML-000?&logo=HTML5"/>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img align="left" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
+<a href="https://git-scm.com" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
+<br>
 
 ### Github Statistic
 <p align="left">
@@ -24,10 +27,9 @@
 </p>
 
 ### Connect with Me
+Use dark theme to see my socials :)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abghany08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abghany08" height="30" width="40" /></a>
-<a href="https://instagram.com/abghany08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abghany08" height="30" width="40" /></a>
-<a href="https://www.twitter.com/abghany08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abghany08" height="30" width="40" /></a>
-<a href="https://medium.com/@abghany08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@loilyxtra" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/abghany08/" target="_blank"><img align="left" alt="abghany08 | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://instagram.com/abghany08" target="_blank"><img align="left" alt="abghany08 | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.twitter.com/abghany08" target="_blank"><img align="left" alt="abghany08 | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://medium.com/@abghany08" target="_blank"><img align="left" alt="abghany08 | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
