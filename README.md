@@ -17,6 +17,8 @@
   
 <a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin"/>
   
+<a href="https://www.oracle.com/java/technologies/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Java-000?&logo=Java"/>  
+  
 <a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.shields.io/badge/-IntelliJ IDEA-000?&logo=IntellijIDEA"/>
   
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code"/> 
