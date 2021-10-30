@@ -13,27 +13,27 @@
 - ⚡ Fun fact: I like cleaning
 
 ### 🛠 Tech Stack
-<a href="https://developer.android.com/studio/intro" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Android Studio-000?&logo=Android-Studio" />
+<a href="https://developer.android.com/studio/intro" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/android-studio.png" />
   
-<a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin"/>
+<a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/kotlin.png"/>
   
-<a href="https://www.oracle.com/java/technologies/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Java-000?&logo=Java"/>  
+<a href="https://www.oracle.com/java/technologies/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/java.png"/>  
   
-<a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.shields.io/badge/-IntelliJ IDEA-000?&logo=IntellijIDEA"/>
+<a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/intellij-idea.png"/>
   
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code"/> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/> 
 
-<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" src="https://img.shields.io/badge/-HTML-000?&logo=HTML5"/>  
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/html-5.png"/>  
   
-<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" src="https://img.shields.io/badge/-CSS-000?&logo=CSS3"/>
+<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/css3.png"/>
   
-<a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img align="left" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/javascript.png"/>
   
-<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
+<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/python.png"/>
   
-<a href="https://git-scm.com" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
+<a href="https://git-scm.com" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/git.png"/>
   
-<a href="https://github.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub"/>
+<a href="https://github.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/github.png"/>
 <br>
 
 ### ⚙️ Github Statistic
