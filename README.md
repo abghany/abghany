@@ -27,7 +27,7 @@
   
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/css3.png"/>
   
-<a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/javascript.png"/>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/javascript.png"/>
   
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/python.png"/>
   
