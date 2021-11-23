@@ -48,7 +48,7 @@
 ### 🤝🏻 Connect with Me
 Use dark theme to see my socials ; )
 
-<a href="https://www.linkedin.com/in/abghany08/" target="_blank"><img align="left" alt="abghany08 | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/abghany/" target="_blank"><img align="left" alt="abghany08 | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://instagram.com/abghany08" target="_blank"><img align="left" alt="abghany08 | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.twitter.com/abghany08" target="_blank"><img align="left" alt="abghany08 | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@abghany08" target="_blank"><img align="left" alt="abghany08 | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
