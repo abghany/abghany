@@ -19,8 +19,8 @@
   
 <a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/intellij-idea.png"/>
   
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/> 
-
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
+  
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/html-5.png"/>  
   
 <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/css3.png"/>
@@ -28,7 +28,7 @@
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/javascript.png"/>
   
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/python.png"/>
-  
+
 <a href="https://git-scm.com" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/git.png"/>
   
 <a href="https://github.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/github.png"/>
@@ -49,4 +49,5 @@ Use dark theme to see my socials ; )
 <a href="https://www.linkedin.com/in/abghany/" target="_blank"><img align="left" alt="abghany08 | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://instagram.com/abghany08" target="_blank"><img align="left" alt="abghany08 | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.twitter.com/abghany08" target="_blank"><img align="left" alt="abghany08 | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.youtube.com/channel/UCw4P-97bspnJCq9CFWAhKZw" target="_blank"><img align="left" alt="HelloWorld Tech | YouTube" width="24px" src="https://user-images.githubusercontent.com/73926625/158122165-86d828f9-679b-49c4-9896-eadfd45237c8.png" />
 <a href="https://medium.com/@abghany08" target="_blank"><img align="left" alt="abghany08 | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
