@@ -17,17 +17,11 @@
   
 <a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/kotlin.png"/>
   
+<a href="https://dev.java/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/java.png"/>
+  
 <a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/intellij-idea.png"/>
   
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
-  
-<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/html-5.png"/>  
-  
-<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/css3.png"/>
-  
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/javascript.png"/>
-  
-<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/python.png"/>
 
 <a href="https://git-scm.com" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/git.png"/>
   
