@@ -17,8 +17,6 @@
   
 <a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/kotlin.png"/>
   
-<a href="https://dev.java/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/java.png"/>
-  
 <a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/intellij-idea.png"/>
   
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
