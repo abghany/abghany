@@ -6,7 +6,7 @@
 
 - 💡 I love innovation and new technologies 
 
-- 💬 Feel free to ask me about Mobile Development or Kotlin
+- 💬 Feel free to ask me about Android Development or Kotlin
 
 - 📫 How to reach me: aghany08@gmail.com
 
