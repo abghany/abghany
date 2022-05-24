@@ -10,12 +10,14 @@
 
 - 📫 How to reach me: aghany08@gmail.com
 
-- ⚡ Fun fact: I like cleaning
+- ⚡ Fun fact: I like cleaning and reading books 
 
 ### 🛠 Tech Stack
 <a href="https://developer.android.com/studio/intro" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/android-studio.png" />
   
 <a href="https://kotlinlang.org" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/kotlin.png"/>
+  
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/firebase.png"/>
   
 <a href="https://www.jetbrains.com/idea" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/intellij-idea.png"/>
   
@@ -24,6 +26,8 @@
 <a href="https://git-scm.com" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/git.png"/>
   
 <a href="https://github.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/github.png"/>
+  
+<a href="https://help.figma.com/hc/en-us" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/figma.png"/>
 <br>
 <br>
 
