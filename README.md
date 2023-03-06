@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi Everyone, I'm Ghany</h1>
 
+A self-motivated person who is always willing to learn, a highly determined individual, and passionate about cyber security and mobile development especially in Android. Eager to learn new things and up to any challenges both individually and in teamwork. I am open to opportunities to grow and gain experience.
+
 ### 👩‍💻 About me
 
 - 🌱 I'm currently learning about Android Development
