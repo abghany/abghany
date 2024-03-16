@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hi Everyone, I'm Ghany</h1>
 
-A self-motivated person who is always willing to learn, a highly determined individual, and passionate about cyber security and mobile development especially in Android. Eager to learn new things and up to any challenges both individually and in teamwork. I am open to opportunities to grow and gain experience.
+Driven by a passion for understanding and mitigating cyber threats, I'm an enthusiastic self-learner actively honing my skills in the realm of security. Currently, I regularly engage in ethical penetration testing of websites, where I've successfully identified and reported low-medium vulnerabilities. Possessing a strong foundation in security concepts and an insatiable drive to learn, I'm seeking a Security Analyst position to leverage my knowledge and contribute to a team safeguarding valuable assets.
 
 ### 👩‍💻 About me
 
-- 🌱 I'm currently learning about Android Development
+- 🌱 I'm currently learning about Cybersecurity
 
 - 💡 I love innovation and new technologies 
 
-- 💬 Feel free to ask me about Android Development or Kotlin
+- 💬 Feel free to ask me about Hacking or Cysec
 
 - 📫 How to reach me: aghany08@gmail.com
 
-- ⚡ Fun fact: I like cleaning and reading books 
+- ⚡ Fun fact: I like to make android apps when I have free time
 
 ### 🛠 Tech Stack
 <a href="https://developer.android.com/studio/intro" target="_blank"> <img align="left" src="https://img.icons8.com/color/30/android-studio.png" />
